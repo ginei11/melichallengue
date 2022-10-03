@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="product_detail_conditions">%1$s | %2$s vendidos</string>
+    <string name="product_detail_buy_now">Comprar ahora</string>
+</resources>

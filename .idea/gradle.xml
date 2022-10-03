@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/buildSrc" />
+            <option value="$PROJECT_DIR$/common" />
+            <option value="$PROJECT_DIR$/common/design-system" />
+            <option value="$PROJECT_DIR$/common/design-system/atoms" />
+            <option value="$PROJECT_DIR$/common/design-system/organism" />
+            <option value="$PROJECT_DIR$/common/navigation" />
+            <option value="$PROJECT_DIR$/common/network" />
+            <option value="$PROJECT_DIR$/domains" />
+            <option value="$PROJECT_DIR$/domains/product-detail" />
+            <option value="$PROJECT_DIR$/domains/product-detail/api" />
+            <option value="$PROJECT_DIR$/domains/product-detail/impl" />
+            <option value="$PROJECT_DIR$/domains/product-detail/wiring" />
+            <option value="$PROJECT_DIR$/domains/search" />
+            <option value="$PROJECT_DIR$/domains/search/api" />
+            <option value="$PROJECT_DIR$/domains/search/impl" />
+            <option value="$PROJECT_DIR$/domains/search/wiring" />
+            <option value="$PROJECT_DIR$/features" />
+            <option value="$PROJECT_DIR$/features/navigation" />
+            <option value="$PROJECT_DIR$/features/navigation/api" />
+            <option value="$PROJECT_DIR$/features/navigation/impl" />
+            <option value="$PROJECT_DIR$/features/navigation/wiring" />
+            <option value="$PROJECT_DIR$/features/product-detail" />
+            <option value="$PROJECT_DIR$/features/product-detail/api" />
+            <option value="$PROJECT_DIR$/features/product-detail/impl" />
+            <option value="$PROJECT_DIR$/features/product-detail/wiring" />
+            <option value="$PROJECT_DIR$/features/search" />
+            <option value="$PROJECT_DIR$/features/search/api" />
+            <option value="$PROJECT_DIR$/features/search/impl" />
+            <option value="$PROJECT_DIR$/features/search/wiring" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

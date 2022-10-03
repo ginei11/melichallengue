@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="search_place_holder">Buscar productos, marcas y más</string>
+    <string name="search_data_zero">Ingresa un criterio de búsqueda para darte resultados</string>
+    <string name="product_card_condition_used">Usado</string>
+    <string name="product_card_condition_new">Nuevo</string>
+    <string name="product_card_free_shipping">Envío gratis</string>
+    <string name="product_card_pick_up_shipping">Recoger en tienda</string>
+    <string name="search_no_results">No encontramos resultados</string>
+</resources>
