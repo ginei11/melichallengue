@@ -26,5 +26,5 @@ Mi estrategia de modularizacion permite que los componentes se puedan reutilizar
 - Compose UI Test - > https://developer.android.com/jetpack/compose/testing?hl=es-419#setup
 
 # Demo
-<img src="https://github.com/ginei11/melichallengue/blob/master/demo.gif" width="640" height="640"/>
+<img src="https://github.com/ginei11/melichallengue/blob/master/demo.gif" width="576" height="1280"/>
 
